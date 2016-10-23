@@ -1,4 +1,4 @@
-﻿---
+---
 title: Aristotle-learning
 text: 'Με κόπο αποκτά κανείς τις γνώσεις.'
 person: Αριστοτέλης
